@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Employee Admin</string>
+    <string name="cancel">cancel</string>
+    <string name="update">Update</string>
+    <string name="roles">roles</string>
+    <string name="ok_txt">OK</string>
+    <string name="none">None</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="is_too_ge_et">istooge</string>
+    <string name="create_txt">create</string>
+    <string name="password">Password</string>
+    <string name="password_confim">Password confirmation</string>
+    <string name="admin_created">Admin Created</string>
+    <string name="department_empty">Department cannot be empty</string>
+    <string name="first_name_empty">First name cannot be empty</string>
+    <string name="last_name_empty">Last name cannot be empty</string>
+    <string name="email_empty">Email cannot be empty</string>
+    <string name="is_too_ge_empty">Is too cannot be empty</string>
+    <string name="password_match">password does not match</string>
+    <string name="role_empty">Role cannot be empty</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools">
+
+    <CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/radio_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:checked="@{checked}"
+        android:gravity="start"
+        android:layoutDirection="rtl"
+        android:text="@{name}"
+
+        android:textAlignment="textStart"
+        tools:text="ADMIN">
+
+    </CheckBox>
+
+    <data>
+
+        <variable
+            name="name"
+            type="String" />
+
+        <variable
+            name="checked"
+            type="Boolean" />
+    </data>
+</layout>
